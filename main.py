@@ -1,4 +1,4 @@
-
+import tools
 
 def main():
     print('1234')
